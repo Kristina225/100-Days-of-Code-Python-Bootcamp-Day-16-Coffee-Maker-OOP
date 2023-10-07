@@ -1,0 +1,26 @@
+{
+  "cappuccino": {
+    "price_USD": 3.00,
+    "ingredients": {
+      "water_ML": 250,
+      "milk_ML": 150,
+      "coffee_GR": 24
+    }
+  },
+  "latte": {
+    "price_USD": 2.50,
+    "ingredients": {
+      "water_ML": 200,
+      "milk_ML": 150,
+      "coffee_GR": 24
+    }
+  },
+  "espresso": {
+    "price_USD": 1.50,
+    "ingredients": {
+      "water_ML": 50,
+      "milk_ML": 0,
+      "coffee_GR": 18
+    }
+  }
+}
